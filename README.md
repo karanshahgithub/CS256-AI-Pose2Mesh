@@ -23,11 +23,11 @@ New data set: Web crawler []
 
 Posenet training and testing:
 
-Posenet training took TeamC about __ - __ hours per epoch for __ epochs.
+Posenet training took TeamC about 45 minutes per epoch for 40 epochs.
 
 Pose2mesh training and testing:
 
-The pose2mesh represents the meshnet part of the architecture and uses the previously trained posenet. Pose2mesh training took TeamC about __ - __ hours per epoch for __ epochs.
+The pose2mesh represents the meshnet part of the architecture and uses the previously trained posenet. Pose2mesh training took TeamC about 12 - 13 hours per epoch for 15 epochs.
 
 Optimizer experiment:
 
