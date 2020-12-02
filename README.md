@@ -3,9 +3,9 @@ Team project implementation of the state-of-the-art paper:
 
 https://arxiv.org/pdf/2008.09047.pdf Pose2Mesh: Graph Convolutional Network for 3D Human Pose and Mesh Recovery from a 2D Human Pose, August 2020.
 
-Project report: [add PDF copy]
+Project report: Uploaded report
 
-Project presentation slides: [add PDF copy]
+Project presentation slides: Uploaded presentation
 
 Implementation:
 
@@ -19,7 +19,7 @@ Downloading data:
 
 Datasets for this project are very large. These are stored in Google drive. We have developed a mechanism using a third-party tool to create a bridge between our AWS EC2 instance and Google drive.
 
-New data set: Web crawler []
+
 
 Posenet training and testing:
 
