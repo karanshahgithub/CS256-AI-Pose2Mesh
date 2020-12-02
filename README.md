@@ -21,7 +21,15 @@ Datasets for this project are very large. These are stored in Google drive. We h
 
 
 
-Posenet training and testing:
+Pose2Mesh training and testing:
+
+***Sample training command:***
+> python main/train.py --gpu 0 --cfg ./asset/yaml/pose2mesh_cocoJ_train_human36_coco_muco.yml
+
+***Sample testing command:***
+> python main/test.py --gpu 0 --cfg ./asset/yaml/pose2mesh_human36J_test_human36.yml
+
+Here based on the selection of dataset, user can pass different config yaml file.
 
 Posenet training took TeamC about 45 minutes per epoch for 40 epochs.
 
